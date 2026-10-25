@@ -1,0 +1,11 @@
+startup_trace started
+Importing arcade_carousel...
+Caught BaseException: SystemExit: 0
+Traceback (most recent call last):
+  File "C:\Users\user\.gemini\antigravity-ide\brain\9974009c-9ced-4cc7-a9ec-2ac6125be3f3\scratch\test_run_with_logging.py", line 14, in <module>
+    import arcade_carousel
+  File "d:\Arcade\ArcadeCarousel\arcade_carousel.py", line 81, in <module>
+    ensure_admin()
+  File "d:\Arcade\ArcadeCarousel\arcade_carousel.py", line 76, in ensure_admin
+    sys.exit(0)
+SystemExit: 0

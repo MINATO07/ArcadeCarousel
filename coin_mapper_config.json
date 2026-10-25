@@ -1,0 +1,10 @@
+{
+  "add_minutes": 1,
+  "input": {
+    "type": "joy_button",
+    "index": 3,
+    "guid": "030057564c050000e60c000000016800",
+    "device_name": "DualSense Wireless Controller",
+    "label": "DualSense Wireless Controller \u2014 Button 4"
+  }
+}
